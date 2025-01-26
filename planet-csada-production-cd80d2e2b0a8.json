@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "planet-csada-production",
-  "private_key_id": "fg345sz2b0a32b09fe758aae3b6fff179c988f84",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAGYUCDSCBKcwggSjAgEAAoIBAQCkLrVPGjnrMpsW\nS4RNKtauE9hSCUbwHUNzXn0MQjp9ct524owIf/t6O6gfdOTpYD415OzY7kV5WCdD\nZ8wgtF1JcRKX/0CXgruyzLCfslWY+dczYd7MKWN9ahWo1CEmJwAbEAGxjA5Dk3EO\nfg+ZjrA6ol3gniPPPPNyWP3iT3ArDyHeKMTBtiqVkQ5Q/xVYnbZ8WAvw/NXbUyF/\n4nqaBltyRrfC2aBAMru2um1quA93ojW5r8E+HX3VFBSGjxCbP8sxPZcWUx6XsCBC\nG0peCI4pV/Gz+LynFj7NgMqkpTu9BSAagy/jeK2rAu+BnbLBcBicohJIzjYhMSsY\nHG3GFdiNAgMBAAECggEACgbBM0q4eUTOpEqp0nWYhSp4li/zWVb8bbIKRG6h+EnE\nzLFSmG1KbAFLJ9qhZSAnxG5NyYSpkPrBcRQcau3g2YySdF5V8Tq+YDGwYpxHLm+p\nhP2H1+N6LC1Hk9cajCQrFTwBwng5YcaWC6rGpJvKZtZGEeLOcIg6HMRTAthTkwmB\nNO+GXATWIVeztwtERVaiM/JO6YC18cyGotiqwTJVsNY7EDdP2hzpopcECZN/6DM+\nrDP44Re7yApjDksmC20xq+e56/bCMpdKxif4pDDGI+ZbBzmIfPJo9u7rtslq2Nqh\nUYFIBDNA5DUaZNR7aWHdsPfGvC6GDY5yvtlMpwMVsQKBgQDZFy1bGnf0XUHfcjGC\nLbUD5dUsslKVQhYOiwyxjCwonRcX9OC53ruSkz4DDgpAClgBQbrRBVvNP1/q68VH\n4EH4HiHkdY8LPms88oLnY89innVGXJ9P4FxVC1MNjfnR9rQ5oP3L9oVA1djkcfin\nvw6XWkZu+hp9DgbfHVBo0kJT/QKBgQDBm+97BEg6hq0L7iO68k6S203GZA9mGMz7\nM7E9TSvGoGu1dbW7vM4eskKRX8t5gq0V4ZFv48XvedIXbWSF/sMZaah2L5Hu9nox\n0Gcx/JRUY2+WLhKWTmJqfwH+ah5EnDaRbQaUji/ZagJEYI0WyZAlXpmjV5OU/nkI\nfp+5ZBmT0QKBgQDGACuwEj4iNQSlxkN9li6pdXCvKZ3E4Ne5P/292jlUeaLciM6G\n+K1gDMfchWu36TdHPiokBp0qYIkdfRkca1//64vCEa779Fxe5Fmcrh4ytpAEMupj\nMiFEt+VyUXHvnPHYNgwFgb0b22/NPF4ssUefqAjho1+Re7+ss9HpKQyyCQKBgBOD\nML6YLuNfIV+bb5RuyUZ5vbvp57dldns2uX0xIuFQ16ohI+C45ZkoZBccrXggmGsl\nIbBCJ3e8MlVUHBZ5F5afFHBc2PtZcfVFSLE8AIMExoE/QXZOjhKnnD7U2RoXGFTN\nxSUBs4bY7UOQ64dJZzKs9xUERYZ1oyMdB+H6Wa2RAoGAVfxu/NwZWS9895Ap6P2n\nQW/tJmxcXEUTc+rEE1nPq5JIBz8Aih5vmEu0RBjedNwhpaw7+MpOa8OYkOe4gvsO\n/VPyYq+VgpD5j9VVRXxLznX9h4MNSfADParKc+0SevaC5dj9mzQX1JEFJ1TQhxD5\nyYmI21c3Q6Xc6L/tyLtjRdA=\n-----END PRIVATE KEY-----\n",
-  "client_email": "planet-csada-production@appspot.gserviceaccount.com",
-  "client_id": "105506346490126412345",
+  "project_id": "<your_gcs_project_id>",
+  "private_key_id": "<private_key_id>",
+  "private_key": "-----BEGIN PRIVATE KEY-----123-----END PRIVATE KEY-----\n",
+  "client_email": "<client__email>",
+  "client_id": "<client_id>",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/planet-csada-production%40appspot.gserviceaccount.com",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucket%40appspot.gserviceaccount.com",
   "universe_domain": "googleapis.com"
 }
